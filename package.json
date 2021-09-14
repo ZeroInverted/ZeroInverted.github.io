@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "3.0.1",
-  "homepage": "http://medhat-alhaddad.ml/",
+  "homepage": "http://mahmoud-fathy.cf/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MEDHAT-ALHADDAD/MEDHAT-ALHADDAD.github.io"
+    "url": "https://github.com/ZeroInverted/ZeroInverted.github.io"
   },
   "scripts": {
     "build": "rimraf ./build && react-scripts build",
